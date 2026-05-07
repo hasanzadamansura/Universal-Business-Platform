@@ -1,10 +1,9 @@
-# 🚀 Universal Rəqəmsal Biznes İdarəetmə Platforması
+#  Universal Rəqəmsal Biznes İdarəetmə Platforması
 
 > Restoranlar, kafelər və kiçik bizneslər üçün vahid, AI əsaslı və bulud texnologiyaları üzərində qurulmuş idarəetmə sistemi.
 
 ---
-
-## 📌 Layihə haqqında
+## Layihə haqqında
 
 Universal Rəqəmsal Biznes Platforması restoran və kiçik bizneslərin bütün əməliyyatlarını bir sistemdə birləşdirən müasir rəqəmsal həll yoludur.  
 
@@ -12,7 +11,7 @@ Bu platforma satışların izlənməsi, müştəri idarəetməsi, rezervasiya si
 
 ---
 
-## 🎯 Layihənin məqsədləri
+##  Layihənin məqsədləri
 
 - Biznes proseslərini rəqəmsallaşdırmaq  
 - Real vaxt məlumat axını təmin etmək  
@@ -22,7 +21,7 @@ Bu platforma satışların izlənməsi, müştəri idarəetməsi, rezervasiya si
 
 ---
 
-## 🌍 Hədəf auditoriya
+## Hədəf auditoriya
 
 - Restoranlar və kafelər  
 - Fast-food şəbəkələri  
@@ -32,7 +31,7 @@ Bu platforma satışların izlənməsi, müştəri idarəetməsi, rezervasiya si
 
 ---
 
-## ❗ Həll edilən problemlər
+##  Həll edilən problemlər
 
 - Parçalanmış idarəetmə sistemləri  
 - Manual və vaxt aparan hesabatlar  
@@ -42,67 +41,67 @@ Bu platforma satışların izlənməsi, müştəri idarəetməsi, rezervasiya si
 
 ---
 
-## 🧩 Əsas funksional modullar
+## Əsas funksional modullar
 
-### 📊 Dashboard və Analitika
+###  Dashboard və Analitika
 - Real vaxtda satış və gəlir izləmə  
 - Qrafiklər və statistik analiz  
 - Performans göstəriciləri  
 
-### 📅 Rezervasiya Sistemi
+###  Rezervasiya Sistemi
 - Online masa bronlama  
 - Bildirişlər (SMS/E-mail)  
 - Rezervasiya tarixçəsi  
 
-### 🛒 Satış və POS sistemi
+###  Satış və POS sistemi
 - Sifariş idarəetməsi  
 - Ödəniş inteqrasiyası  
 - Endirim və kampaniyalar  
 - Hesabın bölünməsi  
 
-### 📦 Anbar İdarəetməsi
+### Anbar İdarəetməsi
 - Stok izləmə  
 - Avtomatik sifariş sistemi  
 - Təchizatçı idarəsi  
 
-### 👥 CRM (Müştəri sistemi)
+### CRM (Müştəri sistemi)
 - Müştəri bazası  
 - Loyallıq proqramı  
 - Fərdiləşdirilmiş təkliflər  
 
-### 📱 Mobil tətbiq
+### Mobil tətbiq
 - iOS və Android dəstəyi  
 - Push bildirişlər  
 - Offline rejim  
 
 ---
 
-## ⚙️ Texniki arxitektura
+##  Texniki arxitektura
 
-### 🧠 Backend
+###  Backend
 - Node.js / .NET Core  
 - REST API və GraphQL  
 - Microservices arxitektura  
 
-### 🎨 Frontend
+###  Frontend
 - React.js / Next.js  
 - Responsive dizayn  
 
-### 🗄️ Verilənlər bazası
+### Verilənlər bazası
 - PostgreSQL  
 - Redis (cache)  
 
-### 🔄 Real-time sistem
+### Real-time sistem
 - WebSocket texnologiyası  
 
-### ☁️ Bulud infrastrukturu
+###  Bulud infrastrukturu
 - AWS / Azure  
 - Docker (container)  
 - CI/CD (gələcəkdə)  
 
 ---
 
-## 🔐 Təhlükəsizlik
+##  Təhlükəsizlik
 
 - JWT ilə autentifikasiya  
 - Rol əsaslı giriş sistemi (RBAC)  
@@ -112,17 +111,17 @@ Bu platforma satışların izlənməsi, müştəri idarəetməsi, rezervasiya si
 
 ---
 
-## 💡 Gələcək funksiyalar
+##  Gələcək funksiyalar
 
-- 🤖 AI satış proqnozu  
-- 🧠 Ağıllı tövsiyə sistemi  
-- 🧾 Səsli sifariş sistemi  
-- 🧊 AR menyu texnologiyası  
-- 🧭 3D dashboard vizuallaşdırma  
+- AI satış proqnozu  
+-  Ağıllı tövsiyə sistemi  
+-  Səsli sifariş sistemi  
+-  AR menyu texnologiyası  
+-  3D dashboard vizuallaşdırma  
 
 ---
 
-## 💰 Gəlir modeli
+##  Gəlir modeli
 
 Abunəlik əsaslı SaaS sistemi:
 
@@ -132,7 +131,7 @@ Abunəlik əsaslı SaaS sistemi:
 
 ---
 
-## 🗺️ İnkişaf planı (Roadmap)
+##  İnkişaf planı (Roadmap)
 
 ### Faza 1 (0–6 ay)
 - Əsas modulların hazırlanması  
@@ -155,16 +154,14 @@ Abunəlik əsaslı SaaS sistemi:
 
 ---
 
-## 📊 Layihə idarəetməsi
+##  Layihə idarəetməsi
 
 Layihə Agile metodologiyası ilə idarə olunur.
 
-🔗 Jira Board:
-https://mnsrahsnzda.atlassian.net
 
 ---
 
-## 🧑‍💻 İnkişaf prosesi
+## İnkişaf prosesi
 
 - Git əsaslı versiya nəzarəti  
 - Branch sistemi (feature-based development)  
@@ -173,4 +170,4 @@ https://mnsrahsnzda.atlassian.net
 
 ---
 
-## 📁 Layihə strukturu# Universal-Business-Platform
+##  Layihə strukturu# Universal-Business-Platform
